@@ -2,7 +2,7 @@
 
 ## Intruduction
 
-[This interactive Shiny App](https://johnnielinke.shinyapps.io/data/) is designed to help users to explore US salaries and gain meaningful insights by comparing among different occupations/states in different years (from 2016 to 2020). The app mainly contains 3 tabs for interactive analysis, which include United States, US State, and Occupation Type.
+[This interactive Shiny App](https://johnnielinke.shinyapps.io/Project/) is designed to help users to explore US salaries and gain meaningful insights by comparing among different occupations/states in different years (from 2016 to 2020). The app mainly contains 3 tabs for interactive analysis, which include United States, US State, and Occupation Type.
 
 #### 1)	United States
 
